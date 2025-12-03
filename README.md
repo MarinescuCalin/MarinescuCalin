@@ -1,10 +1,10 @@
-<!-- Profile header -->
+<img width="1139" height="815" alt="image" src="https://github.com/user-attachments/assets/a2a16112-7d86-4c80-8a3c-cbaced608caa" /><!-- Profile header -->
 <h1 align="center">Hey there 👋 I'm Călin</h1>
 <h3 align="center">21 y/o CS student @ UPB ACS (CTI) • Future Software Engineer</h3>
 
 <p align="center">
-  <a href="https://github.com/<your-username>">
-    <img src="https://komarev.com/ghpvc/?username=<your-username>&label=Profile%20views&style=flat" alt="profile views" />
+  <a href="https://github.com/MarinescuCalin">
+    <img src="https://komarev.com/ghpvc/?username=MarinescuCalin&label=Profile%20views&style=flat" alt="profile views" />
   </a>
 </p>
 
