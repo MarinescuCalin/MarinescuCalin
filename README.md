@@ -18,7 +18,7 @@
 - ⚙️ I enjoy **building reliable systems**, understanding how things work under the hood, and helping improve the lives of people around me  
 - 📊 Passionate about **probabilistic and statistical problems**, as well as **finance and economics**  
 - 🏋️ When I’m not coding, you’ll probably find me **training at the gym**, **exploring the beauty of the world**, or experimenting with **new tech & tools**  
-- 🔍 Currently open to internship/job positions as a **quant trader / low-level programmer / software engineer / systems engineer / devops**  
+- 🔍 Currently open to internship/job positions as a **software engineer / low-level programmer / systems engineer / devops /quant trader**  
 
 ---
 
